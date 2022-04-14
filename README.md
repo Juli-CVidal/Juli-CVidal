@@ -33,5 +33,4 @@
 
 
 ### Pd: I will try to commit frequently to feed my snake
-<!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/Juli-CVidal/Juli-CVidal/blob/output/github-contribution-grid-snake.svg)
