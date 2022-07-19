@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=C9D1D9&vCenter=true&width=608&lines=Hello+There!+My+name+is+Julian+Vidal)](https://git.io/typing-svg)
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=C9D1D9&width=410&lines=Hello+there!+My+name+is+Julian+Vidal;Welcome+to+my+github!;If+you+have+any+questions%2C+contact+me+">
+</p>
+
 <div> 
   <a href="https://t.me/JuliCVidal" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:juli.vidal.019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
