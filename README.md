@@ -1,5 +1,5 @@
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=C9D1D9&width=410&lines=Hello+there!+My+name+is+Julian+Vidal;Welcome+to+my+github!;If+you+have+any+questions%2C+contact+me+">
+  <img src="https://readme-typing-svg.herokuapp.com?    size=28&color=C9D1D9&width=1000&lines=Hello+there!+My+name+is+Julian+Vidal;Welcome+to+my+github!;If+you+have+any+questions%2C+contact+me+">
 </p>
 
 <div> 
