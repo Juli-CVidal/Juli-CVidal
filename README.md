@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/vidalJulian" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://replit.com/@JulianCVidal" target="_blank">
+  <a href="https://replit.com/@JulianCVidal?tab=repls" target="_blank">
      <img src="https://img.shields.io/website?label=Replit&style=for-the-badge&url=https://replit.com/@JulianCVidal" target="_blank">
   </a>  
 </div>
