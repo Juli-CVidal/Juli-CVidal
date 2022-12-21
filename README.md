@@ -25,7 +25,7 @@
 
 ### I like to learn and complement the knowledge I already have with what I am acquiring.
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <h2>Technologies that I use</h2>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
