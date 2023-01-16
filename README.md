@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=33&color=C9D1D9&vCenter=true&width=1000&height=60&lines=Hello+there!+My+name+is+Juli%C3%A1n+Vidal;I'm+a+FullStack+Web+Programmer;If+you+have+any+questions%2C+feel+free+to+contact+me;with+the+links+below">
 </p>
 
+
 <div> 
   <a href="https://t.me/JuliCVidal" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/>
@@ -22,6 +23,9 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/>
   </a>
 </div>
+
+> Hey! Have you seen [my portfolio](https://juli-cvidal.github.io/Juli-Vidal/)?
+
 
 ### I like to learn and complement the knowledge I already have with what I am acquiring.
 
