@@ -33,8 +33,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juli-CVidal&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 -->
-
+<!--
 ### Pd: I will try to commit frequently to feed my snake
 
 ![mishmanners snake gif](https://github.com/Juli-CVidal/Juli-CVidal/blob/output/github-contribution-grid-snake.svg)
-
+-->
